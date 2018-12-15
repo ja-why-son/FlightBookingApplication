@@ -1,5 +1,0 @@
-javac -cp "lib/*" *.java
-
-java -cp "lib/*:." FlightService
-
-./runTests.sh . tmp cases
