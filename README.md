@@ -8,3 +8,5 @@ javac -cp "lib/*" *.java
 Then run the FlightService.java
 
 java -cp "lib/*:." FlightService
+
+hello world
